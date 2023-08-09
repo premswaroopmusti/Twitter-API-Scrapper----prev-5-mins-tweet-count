@@ -23,7 +23,7 @@ I have created a web application that shows the count of tweets (containing the 
 
 •	Clone the repo
 
-•	Open the 4 folders in any Python Ide (preferably Pycharm) in separate windows.
+•	Open the files in any Python Ide (preferably Pycharm) in separate windows.
 
 Paste the following commands sequentially in terminal of Pycharm in all the four windows
 
